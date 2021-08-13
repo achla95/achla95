@@ -1,6 +1,6 @@
-- 👋 Hi, I’m achla95
-- 👀 I’m interested in {crypto,web,pentest} and of course ctf.
-- 🌱 I’m currently learning cryptography.
+- 👋 Hi, I’m achla95.
+- 🏴 I’m interested in {crypto,web,pentest} and I put my knowledge into practice by making ctf.
+- 👀 I’m currently learning cryptography.
 - 📫 You can reach me on discord : achla95#1457 or twitter : @achla95
 
 <!---
