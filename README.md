@@ -2,7 +2,7 @@
   <img src="https://media2.giphy.com/media/1oBwBVLGoLteCP2kyD/giphy.gif?cid=ecf05e47ilc3fpnimqfgvubgn5cvwv0sf49loci4c1sjv2kb&rid=giphy.gif&ct=g" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ayoub-ch-babi/" target="_blank">
+  <a href="https://www.linkedin.com/in/ayoub-ch-babi/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://achla95.github.io/">
